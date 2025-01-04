@@ -5,7 +5,9 @@ echo "Conexión con SSH . \n";
 echo "https://docs.github.com/es/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys . \n";
 echo " Subir código: Crear un repositorio y de usar el git remote en la terminal, status log
 
-trabajar con remoto usar: git push -u origin main
+Trabajar con remoto usar: git push -u origin main
+Añadir el readme
+Modificar en local
 
 Después que mi local se ha sincronizado con remoto 
 hacer un git push (luego de trabajar en local para subir un commit) 
