@@ -7,12 +7,10 @@ echo " Subir código: Crear un repositorio y de usar el git remote en la termina
 
 Trabajar con remoto usar: git push -u origin main
 Añadir el readme
-Modificar en local
-
+Modificar en local y subir cambios, usar:
 Después que mi local se ha sincronizado con remoto 
 hacer un git push (luego de trabajar en local para subir un commit) 
-pero primero estar sincronizado arriba 
-entonces usar primero 
+pero primero debe estar sincronizado arriba entonces usar antes que nada:
 git fetch | se descarga el historial pero no los cambios
 git tree
 git pull
