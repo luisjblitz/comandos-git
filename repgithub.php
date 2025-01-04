@@ -29,28 +29,15 @@ indicar que quiero hacer cambios si no tengo permisos
 con fork copia en mi repositorio 
 después del fork bajarse el SSH
 
-Añadir un nuevo Readme entramos a cd hello-git-mouredev
+Añadir un nuevo Readme entrar al directorio requerido, en este ejmplo es cd hello-git-mouredev
 hacemos cambios git status add commit y push
 Luego me gustaría que el repositorio original tuviese mis cambios
 ir a contribute, open pull request
-el revisor va ir a pulrequest y envía su aprobación
-la persona que mantiene el repo debe hacer merge
+Il revisor va ir a pulrequest y envía su aprobación
+La persona que mantiene el repo debe hacer merge
 
-Sincronización 
+Sincronización  desde arriba
 Ir a la opción de sincronización 
-
-documentacion markdown para el readme
-
-
-
-
-
-
-
+Ver Documentacion markdown para hacer el readme
 .\n";
-
-
-
-
-
 ?>

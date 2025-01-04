@@ -79,8 +79,6 @@ correccion conflicto . \n ";
 echo "git add . |añade el fichero
 pues aun estabamos en el proceso de merge luego git commit . \n";
 
-
-
 echo "git stash | Hacer un commit que no afecta al arbol,
 es temporal, cuando se va a cambiar de rama y el código
 de trabajo no está funcional . \n";
@@ -93,15 +91,9 @@ echo " git diff login|Después de un cambio de rama a master ver lo de login
 preparando un merge,para verificar los cambios de las ramas . \n";
 
 echo "Secuencia: . \n 
- git merge, git commit -m commitear ese merge. \n";
-
+git merge, git commit -m commitear ese merge. \n";
 
 echo "git branch -d login |Para eliminar rama . \n";
 echo "git branch |ver ramas . \n";  
-
-
-
-
-
 
 ?>
